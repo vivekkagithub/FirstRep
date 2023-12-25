@@ -1,4 +1,4 @@
 # FirstRep
 This is my first gitrep.
 <br>
-Author: Vivek Nagar
+Author: Vivek Ji
